@@ -5,4 +5,4 @@ $('a').click(function(){
     return false;
 });
 
-$('body').scrollspy({ target: '#navbar-menu', offset: 70 });
+$('body').scrollspy({ target: '#navbar-menu' });
