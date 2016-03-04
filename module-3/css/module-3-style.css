@@ -1,0 +1,42 @@
+body { padding-top: 70px; position: relative; }
+
+.menu-element { background-color: lightgrey;}
+
+.navbar { 
+	background-color: #337AB7;
+	color: white;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: white;
+}
+
+.navbar-default .navbar-toggle:hover {
+    background-color: #FF9800;
+	color: white;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: white;
+    background-color: #FF9800;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #FF9800;
+}
+
+.content {
+	background-color: lightgrey;
+	border: 1px solid black;
+	margin-bottom: 10px;
+}
+
+p { margin: 0; padding: 10px;}
